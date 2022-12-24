@@ -4,14 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# medicine-delivery-by-drone-management-system-
+<img width="834" alt="Screenshot 2022-12-25 at 12 22 54 AM" src="https://user-images.githubusercontent.com/52202888/209447468-aca6f957-bd1f-4f13-afce-f04c61473d1e.png">
+<img width="834" alt="Screenshot 2022-12-25 at 12 23 08 AM" src="https://user-images.githubusercontent.com/52202888/209447469-ae178b4a-cda2-4d83-99e0-7c1d4cd3f048.png">
